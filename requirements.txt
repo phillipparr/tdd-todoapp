@@ -1,0 +1,4 @@
+splinter
+pytest
+pytest-splinter
+flask
