@@ -1,4 +1,8 @@
 from splinter import Browser
+from selenium import webdriver
+
+driver = webdriver.Chrome('C:/Users/phillipparamirez/Downloads/chromedriver')
+
 
 browser = Browser('chrome')
 url = 'http://localhost:5000'

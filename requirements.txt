@@ -2,3 +2,4 @@ splinter
 pytest
 pytest-splinter
 flask
+selenium
